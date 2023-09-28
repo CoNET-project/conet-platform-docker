@@ -37,8 +37,9 @@ docker logs conet-docker-conet-platform-local-1 -f
 
 Stop Docker
 
+$ docker stop conet-docker-conet-platform-local-1
 ```
-$ conet-docker-conet-platform-local-1
+docker stop conet-docker-conet-platform-local-1
 ```
 
 You can open CONET Platform by local server use URL
