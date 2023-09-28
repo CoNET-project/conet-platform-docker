@@ -1,0 +1,10 @@
+{
+    "name": "@conet.project/conet-platform-docker",
+    "version": "0.0.1",
+    "license": "UNLICENSED",
+    "files": [
+        "./build"
+    ],
+    "main": "./build/index.js",
+    "types": "./build/index.d.ts"
+}
