@@ -16,8 +16,7 @@ packaged
 First, install Docker. Then, run:
 
 ```
-git clone https://github.com/rauljordan/eth-pos-devnet && cd eth-pos-devnet
-./clean.sh
+git clone https://github.com/CoNET-project/conet-platform-docker && cd conet-platform-docker
 docker compose up -d
 ```
 
