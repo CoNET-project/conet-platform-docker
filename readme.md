@@ -6,6 +6,7 @@ This sets up a single local website to host the PWA of CONET platfrom.
 
 packaged
 @conet-project/conet-platform 0.60.3
+
 @conet.project/seguro-gateway 0.18.6
 
 ## Using
