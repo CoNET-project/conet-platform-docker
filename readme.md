@@ -31,14 +31,14 @@ $ docker-compose up -d
 Next, you can inspect the logs of the different services launched. 
 
 ```
-docker logs conet-docker-conet-platform-local-1 -f
+docker logs conet-platform-docker-conet-platform-local-1 -f
 ```
 
 Stop Docker
 
-$ docker stop conet-docker-conet-platform-local-1
+$ docker stop conet-platform-docker-conet-platform-local-1
 ```
-docker stop conet-docker-conet-platform-local-1
+docker stop conet-platform-docker-conet-platform-local-1
 ```
 
 You can open CONET Platform by local server use URL
