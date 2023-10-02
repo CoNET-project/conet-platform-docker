@@ -17,13 +17,12 @@ First, install Docker. Then, run:
 
 ```
 git clone https://github.com/CoNET-project/conet-platform-docker && cd conet-platform-docker
-docker compose up -d
+docker-compose up -d
 ```
-
 You will see the following:
 
 ```
-$ docker compose up -d
+$ docker-compose up -d
 [+] Running 7/7
  ✔ Network conet-docker_default                   Created 
  ✔ Container conet-docker-conet-platform-local-1  Started
