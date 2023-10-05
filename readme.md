@@ -4,11 +4,10 @@ This repository provides a docker-compose file to provide local server to launch
 
 This sets up a single local website to host the PWA of CONET platfrom.
 
-packaged
-```
+This docker image packaged CONET software include 
+
 @conet-project/conet-platform 0.60.3
 @conet.project/seguro-gateway 0.18.6
-```
 
 
 ## Using
@@ -34,16 +33,16 @@ Next, you can inspect the logs of the different services launched.
 docker logs conet-platform-docker-conet-platform-local-1 -f
 ```
 
+You can open CONET Platform by local server use URL
+
+http://localhost:3001
+
 Stop Docker
 
 $ docker stop conet-platform-docker-conet-platform-local-1
 ```
 docker stop conet-platform-docker-conet-platform-local-1
 ```
-
-You can open CONET Platform by local server use URL
-
-http://localhost:3001
 
 # Available Features
 
