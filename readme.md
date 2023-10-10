@@ -54,4 +54,4 @@ Only for Sock v5 support Proxy DNS
 
 proxy server: localhost
 
-proxy port number: 3002
+proxy port number: 3003

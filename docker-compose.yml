@@ -7,5 +7,5 @@ services:
     image: "conetnetwork/conet:platform"
     ports:
       - 3001:3001
-      - 3002:3002
+      - 3003:3003
       
