@@ -50,7 +50,9 @@ docker stop conet-platform-docker-conet-platform-local-1
 
 Use Proxy
 
-Only for Sock v5 support Proxy DNS
+After access http://localhost:3001 then unlocked passcode then proxy server will launch
+
+Current version support Sock v5 & Proxy DNS
 
 proxy server: localhost
 
