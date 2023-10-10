@@ -33,16 +33,24 @@ Next, you can inspect the logs of the different services launched.
 docker logs conet-platform-docker-conet-platform-local-1 -f
 ```
 
-You can open CONET Platform by local server use URL
+Open CONET Platform by local server use URL to unlock wallet
 
 http://localhost:3001
 
-Stop Docker
+
+### Stop Docker
 
 $ docker stop conet-platform-docker-conet-platform-local-1
+
 ```
 docker stop conet-platform-docker-conet-platform-local-1
 ```
 
-# Available Features
+## Available Features
 
+Use Proxy
+
+Only for Sock v5 support Proxy DNS
+
+proxy server localhost
+proxy port 3002
