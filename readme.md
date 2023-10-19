@@ -15,12 +15,13 @@ This docker image packaged CONET software include
 First, install Docker. Then, run:
 
 ```
-git clone https://github.com/CoNET-project/conet-platform-docker && cd conet-platform-docker
+git clone https://github.com/CoNET-project/conet-platform-docker && cd conet-platform-docker && docker pull conetnetwork/conet:platform
 docker-compose up -d
 ```
 You will see the following:
 
 ```
+$ docker pull conetnetwork/conet:platform
 $ docker-compose up -d
 [+] Running 7/7
  ✔ Network conet-docker_default                   Created 
