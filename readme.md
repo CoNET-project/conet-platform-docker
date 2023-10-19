@@ -58,3 +58,7 @@ Current version support Sock v5 & Proxy DNS
 proxy server: localhost
 
 proxy port number: 3003
+
+proxy auto-config (PAC) url:
+
+http://localhost:3003/pac
